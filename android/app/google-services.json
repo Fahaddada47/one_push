@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953911462103",
+    "project_id": "pushtest-4c018",
+    "storage_bucket": "pushtest-4c018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953911462103:android:1d8111b9dfa281155fc892",
+        "android_client_info": {
+          "package_name": "com.onepush.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXAqoBZff2eCt0p4-HN_FczDBy7PX624"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
